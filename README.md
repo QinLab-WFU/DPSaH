@@ -21,7 +21,7 @@ After the dataset has been prepared, we could run the follow command to train.
 @ARTICLE{wu2026deep,  
   author={Wu, Lei and Qin, Qibing and Dai, Jiangyan and Huang, Lei and Zhang, Wenfeng},  
   journal={Engineering Applications of Artificial Intelligence},  
-  title={Deep Potential Semantic-aware Hashing for for Cross-modal Retrieval},  
+  title={Deep Potential Semantic-aware Hashing for Cross-modal Retrieval},  
   year={2026},  
   volume={169},  
   number={11},  
